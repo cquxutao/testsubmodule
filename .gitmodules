@@ -1,0 +1,3 @@
+[submodule "testrebase"]
+	path = testrebase
+	url = https://github.com/cquxutao/testrebase.git
